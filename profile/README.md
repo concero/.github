@@ -3,7 +3,7 @@
 # Concero.io
 
 🚀 **Swap your crypto across 16 chains.**  
-📊 **Track prices, news & live transactions** on [dex.concero.io](http://app.concero.io)
+📊 **Track prices, news & live transactions** on [app.concero.io](http://app.concero.io)
 
 ## Features
 
