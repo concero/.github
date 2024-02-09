@@ -1,29 +1,19 @@
-![Concero DEX Banner](https://pbs.twimg.com/profile_banners/1656709850234077194/1691232566/1500x500)
+![1500x500](https://github.com/concero/.github/assets/47119689/5dff06b6-5cd4-4fcc-8acc-3057dcbe7d8c)
 
-# Concero.io
+# Concero – Making cross-chain effortless.
+Building a bridgeless cross-chain DEX & Staking aggregator – [app.concero.io](http://app.concero.io)
 
-🚀 **Swap your crypto across 16 chains.**  
-📊 **Track prices, news & live transactions** on [app.concero.io](http://app.concero.io)
-
-## Features
-
-- **Cross-Chain Swaps**: Seamlessly swap your crypto across 16 different chains.
-- **Live Tracking**: Real-time price tracking, news updates, and transaction monitoring.
-- **User-Friendly Interface**: An intuitive UI that makes trading and tracking a breeze.
-- **Open Source**: Dive into our code and contribute to the future of decentralized exchanges.
+- **Swap your crypto across 18 chains.**  
+- **View prices, news & live transactions**
+- **Stake into top pools across all protocols**
+- **Insure your transactions for peace of mind, powered by InsurAce**
+- **Track performance of your wallets across all chains** (Coming soon)
+- **Bridgeless cross-chain infrastructure, powered by Chainlink** (Coming soon)
 
 ## Social Links
 
 - 🐦 [Twitter](https://twitter.com/concero_io)
-- 📖 [Medium](https://medium.com/@concero)
 - 💬 [Discord](https://discord.gg/concero_io)
+- 📖 [Medium](https://medium.com/@concero)
 
-## Getting Started
-
-1. Visit [app.concero.io](http://dex.concero.io)
-2. Connect your wallet.
-3. Start swapping and tracking!
-
----
-
-Built with ❤️ by [Concero.io](https://concero.io)
+Built with ❤️ by Team Concero
