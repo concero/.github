@@ -13,7 +13,7 @@ Building a bridgeless cross-chain DEX & Staking aggregator – [app.concero.io](
 ## Social Links
 
 - 🐦 [Twitter](https://twitter.com/concero_io)
-- 💬 [Discord](https://discord.gg/concero_io)
+- 💬 [Discord](https://discord.gg/nBMAdxYTZK)
 - 📖 [Medium](https://medium.com/@concero)
 
 Built with ❤️ by Team Concero
