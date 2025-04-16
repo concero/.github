@@ -1,13 +1,9 @@
-![1500x500](https://github.com/concero/.github/assets/47119689/5dff06b6-5cd4-4fcc-8acc-3057dcbe7d8c)
+![1500x500-3](https://github.com/user-attachments/assets/590aae05-834b-406a-9e28-3f120d49c27d)
 
-# Concero – Making cross-chain effortless.
-A fully decentralised cross-chain interoperability protocol, powered by Chainlink – [app.concero.io](http://app.concero.io)
+# Concero
+A fully decentralised cross-chain interoperability protocol with unprecedented ease of integration.
 
-
-## Social Links
-
-- 🐦 [Twitter](https://twitter.com/concero_io)
-- 💬 [Discord](https://discord.gg/lanca)
-- 📖 [Medium](https://medium.com/@concero)
-
-Built with ❤️ by Team Concero
+- [Concero – Blog](https://blog.concero.io)
+- [Concero – Docs](https://docs.concero.io)
+- [Concero X](https://twitter.com/concero_io)
+- [Concero/Lanca Discord](https://discord.gg/lanca)
